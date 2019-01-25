@@ -1015,15 +1015,15 @@
 /* Wrapper */
 
 	#wrapper {
-		background: #fff;
-		padding-right: 30em; /* padding-right: 23em; HR */
+		background: #f4f4f4; /* HR: #fff */
+		padding-right: 30em; /* HR: 23em */
 		padding-left: 10em; /* HR*/
 	}
 
 /* Main */
 
 	#main > section {
-		border-top: solid 6px #f4f4f4;
+		border-top: solid 12px #f4f4f4; /* HR: 6px */
 	}
 
 		#main > section > .container {
