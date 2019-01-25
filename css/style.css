@@ -480,12 +480,12 @@
 			}
 
 		.image.avatar {
-			border-radius: 10%;
+			border-radius: 5%; /* HR: 100% */
 			overflow: hidden;
 		}
 
 			.image.avatar img {
-				border-radius: 10%;
+				border-radius: 5%; /* HR: 100% */
 				display: block;
 				width: 100%;
 			}
@@ -916,6 +916,7 @@
 		position: fixed;
 		text-align: center;
 		top: 0;
+		padding-right: 10em; /* HR */
 		width: 20em; /* width: 23em; HR */
 		right: 0;
 	}
@@ -947,7 +948,7 @@
 			#header > header .avatar {
 				display: block;
 				margin: 0 auto 2.25em auto;
-				width: 11em; /* width: 8em; */
+				width: 10.5em; /* width: 8em; HR */
 			}
 
 			#header > header h1 {
@@ -1015,8 +1016,8 @@
 
 	#wrapper {
 		background: #fff;
-		padding-right: 20em; /* padding-right: 23em; HR */
-		padding-left: 20em; /* HR*/
+		padding-right: 30em; /* padding-right: 23em; HR */
+		padding-left: 10em; /* HR*/
 	}
 
 /* Main */
