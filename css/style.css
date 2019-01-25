@@ -916,8 +916,7 @@
 		position: fixed;
 		text-align: center;
 		top: 0;
-		/* width: 23em; HR */
-		width: 20em;
+		width: 20em; /* width: 23em; HR */
 		right: 0;
 	}
 
@@ -948,7 +947,7 @@
 			#header > header .avatar {
 				display: block;
 				margin: 0 auto 2.25em auto;
-				width: 8em;
+				width: 10em; /* width: 8em; */
 			}
 
 			#header > header h1 {
@@ -1016,8 +1015,8 @@
 
 	#wrapper {
 		background: #fff;
-		/* padding-right: 23em; HR */
-		padding-right: 20em;
+		padding-right: 20em; /* padding-right: 23em; HR */
+		padding-left: 20em; /* HR*/
 	}
 
 /* Main */
@@ -1038,14 +1037,12 @@
 
 	#one:before {
 		background-image: url("../images/banner.jpg");
-		/* background-position: top right; HR */
-		background-position: center;
+		background-position: center; /* background-position: top right; HR */
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
 		display: block;
-		/* height: 15em; HR */
-		height: 25em;
+		height: 25em; /* height: 15em; HR */
 		width: 100%;
 	}
 
