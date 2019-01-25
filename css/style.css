@@ -1023,6 +1023,7 @@
 /* Main */
 
 	#main > section {
+		background: #fff; /* HR */
 		border-top: solid 12px #f4f4f4; /* HR: 6px */
 	}
 
