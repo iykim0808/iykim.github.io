@@ -480,12 +480,12 @@
 			}
 
 		.image.avatar {
-			border-radius: 100%;
+			border-radius: 10%;
 			overflow: hidden;
 		}
 
 			.image.avatar img {
-				border-radius: 100%;
+				border-radius: 10%;
 				display: block;
 				width: 100%;
 			}
@@ -916,7 +916,8 @@
 		position: fixed;
 		text-align: center;
 		top: 0;
-		width: 23em;
+		/* width: 23em; HR */
+		width: 20em;
 		right: 0;
 	}
 
@@ -1015,7 +1016,8 @@
 
 	#wrapper {
 		background: #fff;
-		padding-right: 23em;
+		/* padding-right: 23em; HR */
+		padding-right: 20em;
 	}
 
 /* Main */
@@ -1036,12 +1038,14 @@
 
 	#one:before {
 		background-image: url("../images/banner.jpg");
-		background-position: top right;
+		/* background-position: top right; HR */
+		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 15em;
+		/* height: 15em; HR */
+		height: 25em;
 		width: 100%;
 	}
 
