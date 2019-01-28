@@ -1017,7 +1017,7 @@
 	#wrapper {
 		background: #f4f4f4; /* HR: #fff */
 		padding-right: 30em; /* HR: 23em */
-		padding-left: 10em; /* HR*/
+		padding-left: 10em; /* HR: 0 */
 	}
 
 /* Main */

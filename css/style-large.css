@@ -12,16 +12,17 @@
 
 /* Header */
 
-/*
 	#header {
+		background: #caca18;
 		width: 20em;
+		right: 0em; /* HR: 0 */
 	}
-*/
 
 /* Wrapper */
 
-/*
 	#wrapper {
 		padding-right: 20em;
+		padding-left: 0em; /* HR*/
 	}
-*/
+
+

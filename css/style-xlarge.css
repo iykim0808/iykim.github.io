@@ -14,11 +14,13 @@
 
 /* Header */
 
-/*
 	#header {
-		width: 21em;
+		background: #cccc1c;
+		width: 20em; /* HR: 21em */
+		right: 0em; /* HR: 0 */
 	}
 
+/*
 		#header > header {
 			padding: 2em;
 		}
@@ -26,15 +28,14 @@
 		#header > footer {
 			padding: 1.5em;
 		}
-*/
+*?
 
 /* Wrapper */
 
-/*
 	#wrapper {
-		padding-right: 21em;
+		padding-right: 20em; /* HR: 21em */
+		padding-left: 0em; /* HR*/
 	}
-*/
 
 /* Main */
 
