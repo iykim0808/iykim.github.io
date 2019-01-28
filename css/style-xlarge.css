@@ -6,21 +6,18 @@
 
 /* Basic */
 
-/*
 	body, input, select, textarea {
 		font-size: 13pt;
 	}
-*/
 
 /* Header */
 
 	#header {
-		background: #cccc1c;
+		background: #ffcc1c;
 		width: 20em; /* HR: 21em */
 		right: 0em; /* HR: 0 */
 	}
 
-/*
 		#header > header {
 			padding: 2em;
 		}
@@ -28,7 +25,6 @@
 		#header > footer {
 			padding: 1.5em;
 		}
-*?
 
 /* Wrapper */
 
@@ -39,8 +35,6 @@
 
 /* Main */
 
-/*
 	#main > section > .container {
 		padding: 4em 0 2em 0;
 	}
-*/
