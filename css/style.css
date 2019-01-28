@@ -918,7 +918,7 @@
 		top: 0;
 		/* padding-right: 10em; /* HR */
 		width: 20em; /* width: 23em; HR */
-		right: 10em; /* HR: 0 */
+		right: 5em; /* HR: 0 */
 	}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
@@ -1016,8 +1016,8 @@
 
 	#wrapper {
 		background: #f4f4f4; /* HR: #fff */
-		padding-right: 30em; /* HR: 23em */
-		padding-left: 10em; /* HR: 0 */
+		padding-right: 25em; /* HR: 23em */
+		padding-left: 5em; /* HR: 0 */
 	}
 
 /* Main */
